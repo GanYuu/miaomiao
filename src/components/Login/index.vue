@@ -30,3 +30,4 @@ export default {
 .login_body .login_link{ display: flex; justify-content:space-between;}
 .login_body .login_link a{ text-decoration: none; margin:0 5px; font-size: 12px; color:#e54847;}
 </style>
+0000
